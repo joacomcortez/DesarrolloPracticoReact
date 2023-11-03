@@ -8,6 +8,8 @@
   gap: 30vh;
   background-color: rgb(33, 37, 41);
   color: white;
+  position: absolute;
+  bottom: 0;
 }
 .ourCompany {
   margin-top: 1vh;
