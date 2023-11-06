@@ -14,6 +14,7 @@ const Footer = () => {
         <p>Phone: (123) 456-67890</p>
       </div>
     </div>
+    
   );
 };
 

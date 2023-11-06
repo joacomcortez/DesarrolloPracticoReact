@@ -1,4 +1,4 @@
-import React from "react";
+
 import CarouselHome from "./homeComponents/CarouselHome/CarouselHome";
 import FeatureCard from "./homeComponents/FeatureCards/FeatureCard";
 import "./home.css";

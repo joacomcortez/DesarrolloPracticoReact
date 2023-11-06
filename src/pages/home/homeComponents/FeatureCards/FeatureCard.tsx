@@ -7,7 +7,7 @@ interface Props {
 }
 function FeatureCard(props: Props) {
   return (
-    <Card style={{ width: "20vh" }}>
+    <Card style={{ width: "40vh" }}>
       <Card.Img variant="top" src={props.image} />
       <Card.Body>
         <Card.Title>{props.title}</Card.Title>

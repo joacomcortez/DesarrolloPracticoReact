@@ -5,7 +5,7 @@ const CarouselHome = () => {
   return (
     <Carousel className="carouselHome">
       <Carousel.Item>
-        <img
+      <img
           className="carouselImage"
           src="https://elfaro.net/images/cache/3000x1200/crop_0_23_2999_1224/images%7Ccms-image-000038447.jpg"
           alt="first-image"
