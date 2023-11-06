@@ -1,5 +1,4 @@
 import { ProgressBar } from "react-bootstrap";
-
 type DangerBarprops ={
     value:number;
 };
@@ -16,6 +15,7 @@ const DangerBar = ({value}:DangerBarprops) => {
   return (
     <ProgressBar animated now={value} variant={getVariant(value)}/>
   )
+
 }
 
 export default DangerBar
